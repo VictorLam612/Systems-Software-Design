@@ -1,0 +1,16 @@
+Cameron Harvey
+Victor Lam
+
+Part 1: Complete
+	We were able to correctly perform the address translation and write it to an output file.
+	ceabc02825a5b908e474b053074ab53c  output-part1
+
+Part 2: Complete
+	We were able to simulate the physical memory frames and virtual pages for the memory accesses of a process. 
+	We were also able to determine the physical address for each virtual memory request and output them to a file.
+	c95b27848ae8d4354d87678d075001f7  output-part2
+	Page Faults: 3210
+	
+Part 3: Incomplete
+	Not started
+
